@@ -1,0 +1,6 @@
+# This file is used to specify the dependencies for the project.
+# Each line should contain a package name and optionally a version specifier.
+# Use the format: package_name==version
+
+cryptography ==45.0.3
+python-dotenv == 1.1.0
