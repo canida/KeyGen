@@ -2,3 +2,6 @@
 venv/
 # Ignore environment configuration files
 .env
+
+# Ignore .key files
+*.key
